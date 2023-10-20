@@ -8,4 +8,4 @@
         public ICollection<Comment> Comments { get; set; }
         public int AuthorId { get; set; }
     }
-} 
+}
